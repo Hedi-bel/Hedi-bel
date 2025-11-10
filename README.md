@@ -71,23 +71,24 @@
   />
 </div>
 
-<!-- Images side by side with space between and responsive -->
+<!-- Images side by side below trophies -->
 <div style="
   display: flex; 
   justify-content: space-between; 
   align-items: center; 
   gap: 20px; 
-  padding: 0 20px; 
-  flex-wrap: wrap;
+  max-width: 800px; 
+  margin: 0 auto;
 ">
   <img 
     src="https://cdn.wallpapersafari.com/83/60/2mv4Ss.gif" 
     alt="animated gif"
-    style="height: 250px; flex: 1; min-width: 200px; object-fit: cover;"
+    style="height: 250px; width: 48%; object-fit: cover;"
   />
   <img 
-    src="https://64.media.tumblr.com/a274991a37ae8ef37d8af626b8f6516a/tumblr_nns1nwGrZY1swb6o8o1_540.gifv" 
-    alt="My girl Rukia"
-    style="height: 250px; flex: 1; min-width: 200px; object-fit: cover;"
+    src="https://giffiles.alphacoders.com/154/154639.gif" 
+    alt="anime girl"
+    style="height: 250px; width: 48%; object-fit: cover;"
   />
 </div>
+
