@@ -86,6 +86,6 @@
   <img 
     src="https://giffiles.alphacoders.com/154/154639.gif" 
     alt="anime girl"
-    style="height: 250px; flex: 1; min-width: 160px; object-fit: cover;"
+    style="height: 250px; flex: 1; min-width: 100px; object-fit: cover;"
   />
 </div>
