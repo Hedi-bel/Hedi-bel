@@ -60,6 +60,8 @@
 
 
 
+
+
 <div style="text-align: center; margin-bottom: 30px;">
   <!-- Trophies at the top -->
   <img 
@@ -69,7 +71,7 @@
   />
 </div>
 
-<!-- Images side by side below trophies -->
+<!-- Images side by side with space between and responsive -->
 <div style="
   display: flex; 
   justify-content: space-between; 
@@ -84,8 +86,8 @@
     style="height: 250px; flex: 1; min-width: 200px; object-fit: cover;"
   />
   <img 
-    src="https://giffiles.alphacoders.com/154/154639.gif" 
-    alt="anime girl"
-    style="height: 250px; flex: 1; min-width: 100px; object-fit: cover;"
+    src="https://64.media.tumblr.com/a274991a37ae8ef37d8af626b8f6516a/tumblr_nns1nwGrZY1swb6o8o1_540.gifv" 
+    alt="My girl Rukia"
+    style="height: 250px; flex: 1; min-width: 200px; object-fit: cover;"
   />
 </div>
