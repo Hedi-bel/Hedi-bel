@@ -1,10 +1,13 @@
+
 <h2 align="left">Hi ! My name is Mohamed El Hedi Belghith and I'm  currently A Business Information Student  </h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hedi-bel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hedi-bel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Hedi-bel&layout=compact&theme=dracula&hide_border=false&cache_seconds=60"
+/>
 </div>
 
 ###
@@ -21,7 +24,7 @@
 </div>
 
 ###
-
+![Profile Views](https://komarev.com/ghpvc/?username=Hedi-bel&label=Profile%20Views&color=red&style=flat)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Hedi-bel/Hedi-bel/output/snake.svg" alt="Snake animation" />
