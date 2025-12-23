@@ -45,14 +45,6 @@
 
 
 
-<div style="text-align: center; margin-bottom: 30px;">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=hedi-bel&theme=onedark&no-frame=true&no-bg=false&margin-w=10&margin-h=10" 
-    alt="hedi-bel trophies"  
-    style="max-width: 80%; height: auto;"
-  />
-</div>
-
 
 
 
