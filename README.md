@@ -117,7 +117,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/e6/28/b9/e628b914a1187fd126e26f152177800e.jpg" height="250" alt="coding illustration" />
+  <img src="https://i.pinimg.com/736x/54/6b/43/546b43ac95cc9169006457512d278852.jpg" />
 </div>
 
 <div align="center">
