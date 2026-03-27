@@ -6,10 +6,6 @@
   <img src="https://i.pinimg.com/originals/31/e1/03/31e1037b1b30c313806263929812df66.gif">
 </div>
 
-<div align="center">
-  <img src="https://i.makeagif.com/media/11-03-2025/AgtN8z.gif" height="200" alt="coding gif" />
-</div>
-
 ---
 ## 👨‍💻 About Me
 
