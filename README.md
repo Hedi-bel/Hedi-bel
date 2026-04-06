@@ -111,7 +111,7 @@
 - 🌱 Deepening my knowledge in **Data Science** and **Machine Learning**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **Web Development**, **Mobile Apps**, or **Business Technology**
-- 📫 How to reach me: Check out my social links above!
+- 📫 How to reach me: Check out my social links above! 
 
 ---
 
